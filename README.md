@@ -125,11 +125,6 @@ This module processes audio recordings from 189 interview sessions with an anima
 
 4. **Run the modules**
    ```bash
-   # For QEEG analysis
-   python qeeg_analysis.py
-   
-   # For EEG-EDF analysis
-   python eeg_edf_analysis.py
    
    # For Audio analysis
    python audio_analysis.py
